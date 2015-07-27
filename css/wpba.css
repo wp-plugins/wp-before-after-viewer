@@ -1,0 +1,32 @@
+.ba-container {
+	
+}
+.ba-container br{
+	display:none;	
+}
+.ba-container .ba_img{
+	max-width:none !important;	
+	cursor:e-resize !important;
+	transform:translateY(-50%);
+}
+.ba-container .before-lbl,.ba-container .after-lbl{
+	position:absolute;
+	display:inline-block;
+	bottom:10px;
+	left:10px;
+	z-index:100;
+	padding:10px;
+	background-color:rgba(0,0,0,1);
+	border:1px solid #888;
+	color:#fff;
+	opacity:0.5;
+	transition:all ease 0.25s;
+}
+.ba-container .before-lbl:hover,.ba-container .after-lbl:hover{
+	opacity:1;	
+	transition:all ease 0.25s;
+}
+.ba-container .after-lbl{
+	right:10px;
+	left:auto;	
+}
