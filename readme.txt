@@ -11,18 +11,19 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 WP Before After Viewer plugin let you display two images in very nice way to compare them.
 == Description ==
 
-WP Before After Viewer plugin display two images side by side to compare them, and see the defirence in very clear way.
+WP Before After Viewer plugin display two images side by side to compare them, and see the difference in very clear way.
 There is some settings you can configure in the setting page:
 
-1.  Animate intro
+1. Animate intro
 2. Show full image links.
-3.  Devider position ( you can make one image bigger than the other one).
-4. Devider color to set the border color between the two images.
+3. Divider position ( you can make one image bigger than the other one).
+4. Divider color to set the border color between the two images.
 5. Enable Left/Right keyboard keys
-6. pixels moves when kayboard keys pressed : you can set how many pixel should the devider moves when Left/Right key pressed.
+6. pixels moves when keyboard keys pressed: you can set how many pixel should the divider moves when Left/Right key pressed.
 7. it looks great in all devices!
 
 you can insert this shortcode in any post/page or text widget
+
 [wpba][/wpba]
 
 usage:
@@ -51,14 +52,14 @@ Please don't hesitiate to contact us if you have any question, feature suggestio
 
 
 == Frequently Asked Questions ==
-= 1. Can I change the devider position? =
+= 1. Can I change the divider position? =
 Yes, go to setting page and change devider position.
 
 = 2. Can I display a link to show full images? =
 Yes, go to setting page and check show full images link.
 
-= 3. Can I change the style for the devider? =
-Yes, you can change the devider color from the setting page, or you can go to the plugin folder and write your own css code for it.
+= 3. Can I change the style for the divider? =
+Yes, you can change the divider color from the setting page, or you can go to the plugin folder and write your own css code for it.
 
 
 == Changelog ==
